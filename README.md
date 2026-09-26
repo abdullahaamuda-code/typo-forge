@@ -109,3 +109,7 @@ Everything lives in the `CONFIG` dict at the top of `typo_forge.py`:
 ## License
 
 [MIT](LICENSE)
+
+---
+
+Built by Abdullah A-Amuda.
