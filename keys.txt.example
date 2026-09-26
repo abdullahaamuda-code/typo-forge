@@ -1,0 +1,5 @@
+# One Groq API key per line (gsk_...). Free keys: https://console.groq.com
+# Keys are tried top to bottom — a dead key fails over to the next one
+# automatically, and edits are live-reloaded on every forge (no restart needed).
+#
+# Copy this file to keys.txt and paste your key in. keys.txt is git-ignored.

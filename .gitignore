@@ -1,0 +1,7 @@
+# your live Groq keys — never commit
+keys.txt
+
+# runtime artifacts
+typo-forge.log
+__pycache__/
+*.pyc
